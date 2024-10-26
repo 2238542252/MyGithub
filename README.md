@@ -1,5 +1,7 @@
 优秀Github项目收集
 
+混合直播源：https://github.com/sjiang51/iptv1
+
 IPV6直播源1：https://github.com/skddyj/iptv
 
 IPV6直播源2：https://github.com/Rivens7/Livelist
