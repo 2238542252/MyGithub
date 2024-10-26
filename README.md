@@ -1,23 +1,25 @@
-喜欢折腾电视的新人
+优秀Github项目收集
 
-IPV4 优质直播源
+IPV6直播源1：https://github.com/skddyj/iptv
 
-1：https://github.com/skddyj/iptv
+IPV6直播源2：https://github.com/Rivens7/Livelist
 
-2：https://github.com/Rivens7/Livelist
+IPV4直播源：https://github.com/balala2oo8/iptv
 
-IPV4 优质直播源
+TVBox接口1：https://github.com/qirenzhidao/tvbox18
 
-1：https://github.com/balala2oo8/iptv
+TVBox接口2：https://github.com/loopool/fan
 
-TVBox 优质接口
+TVBox应用软件：https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
-1：https://github.com/qirenzhidao/tvbox18
+声音分离工具：https://github.com/CarlGao4/Demucs-Gui/releases
 
-2：https://github.com/loopool/fan
+Flash浏览器：https://github.com/Mzying2001/CefFlashBrowser/releases
 
-TVBox 应用软件
+翻墙工具1：https://github.com/Alvin9999/new-pac/wiki
 
-1：https://github.com/o0HalfLife0o/TVBoxOSC/releases
+翻墙工具2：https://github.com/bannedbook/fanqiang/wiki
 
-THE END
+Switch模拟器1：https://github.com/ryujinx-mirror/ryujinx
+
+Switch模拟器2：https://github.com/GreemDev/Ryujinx
