@@ -1,6 +1,6 @@
 优秀的Github项目收集
 
-混合直播源：https://github.com/sjiang51/iptv1
+混合直播源：https://github.com/vbskycn/iptv
 
 IPV6直播源1：https://github.com/skddyj/iptv
 
