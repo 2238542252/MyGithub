@@ -14,6 +14,8 @@ TVBox接口2：https://github.com/loopool/fan
 
 TVBox软件：https://github.com/o0HalfLife0o/TVBoxOSC/releases
 
+OK影视：https://github.com/FongMi/Release
+
 声音分离工具：https://github.com/CarlGao4/Demucs-Gui/releases
 
 Flash浏览器：https://github.com/Mzying2001/CefFlashBrowser/releases
