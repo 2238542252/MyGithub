@@ -4,7 +4,7 @@
 
 IPV6直播源1：https://github.com/skddyj/iptv
 
-IPV6直播源2：https://github.com/Rivens7/Livelist
+IPV6直播源2：https://github.com/suxuang/myIPTV
 
 IPV4直播源：https://github.com/balala2oo8/iptv
 
@@ -20,9 +20,9 @@ OK影视：https://github.com/FongMi/Release
 
 Flash浏览器：https://github.com/Mzying2001/CefFlashBrowser/releases
 
-Switch模拟器1：https://github.com/ryujinx-mirror/ryujinx/releases
+Switch模拟器1：https://github.com/Ryubing/Stable-Releases/releases
 
-Switch模拟器2：https://github.com/GreemDev/Ryujinx/releases
+Switch模拟器2：https://github.com/Ryubing/Canary-Releases/releases
 
 翻墙工具1：https://github.com/Alvin9999/new-pac/wiki
 
