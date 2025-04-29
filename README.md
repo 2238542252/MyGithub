@@ -24,6 +24,8 @@ Switch模拟器1：https://github.com/Ryubing/Stable-Releases/releases
 
 Switch模拟器2：https://github.com/Ryubing/Canary-Releases/releases
 
+KMS工具：https://github.com/zbezj/HEU_KMS_Activator/releases
+
 翻墙工具1：https://github.com/Alvin9999/new-pac/wiki
 
 翻墙工具2：https://github.com/bannedbook/fanqiang/wiki
