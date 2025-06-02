@@ -20,9 +20,11 @@ OK影视：https://github.com/FongMi/Release
 
 Flash浏览器：https://github.com/Mzying2001/CefFlashBrowser/releases
 
-Switch模拟器1：https://github.com/Ryubing/Stable-Releases/releases
+Ryujinx模拟器：https://github.com/Ryubing/Stable-Releases/releases
 
-Switch模拟器2：https://github.com/Ryubing/Canary-Releases/releases
+Ryujinx稳定版：https://github.com/iurehg8uetgyh8ui5e/sr/releases/
+
+Ryujinx内测版：https://github.com/iurehg8uetgyh8ui5e/cr/releases/
 
 KMS工具：https://github.com/zbezj/HEU_KMS_Activator/releases
 
