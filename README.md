@@ -28,6 +28,8 @@ Ryujinx内测版：https://github.com/iurehg8uetgyh8ui5e/cr/releases/
 
 KMS工具：https://github.com/zbezj/HEU_KMS_Activator/releases
 
+中国教科书：https://github.com/TapXWorld/ChinaTextbook
+
 翻墙工具1：https://github.com/Alvin9999/new-pac/wiki
 
 翻墙工具2：https://github.com/bannedbook/fanqiang/wiki
