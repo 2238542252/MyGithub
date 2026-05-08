@@ -1,14 +1,14 @@
 优秀的Github项目收集
 
-混合直播源1：https://github.com/vbskycn/iptv
+混合直播源：https://github.com/vbskycn/iptv
 
-混合直播源2：https://github.com/Guovin/iptv-api
+IPV6直播源：https://github.com/skddyj/iptv
 
-IPV6直播源1：https://github.com/skddyj/iptv
+TVBox接口汇总1：https://github.com/tushen6/Tomorrow
 
-IPV6直播源2：https://github.com/suxuang/myIPTV
+TVBox接口汇总2：https://github.com/qist/tvbox
 
-TVBox接口1：https://github.com/qirenzhidao/tvbox18
+TVBox接口1：https://github.com/yoursmile66/TVBox
 
 TVBox接口2：https://github.com/loopool/fan
 
@@ -28,6 +28,6 @@ KMS工具：https://github.com/zbezj/HEU_KMS_Activator/releases
 
 中国教科书：https://github.com/TapXWorld/ChinaTextbook
 
-翻墙工具1：https://github.com/Alvin9999/new-pac/wiki
+翻墙工具1：https://github.com/Alvin9999-newpac/fanqiang/wiki
 
 翻墙工具2：https://github.com/bannedbook/fanqiang/wiki
