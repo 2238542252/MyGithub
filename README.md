@@ -20,6 +20,8 @@ OK影视：https://github.com/FongMi/Release
 
 Flash浏览器：https://github.com/Mzying2001/CefFlashBrowser/releases
 
+VMware Workstation：https://github.com/201853910/VMwareWorkstation/releases
+
 Ryujinx模拟器：https://github.com/Ryubing/
 
 NVIDIA驱动补丁：https://github.com/dartraiden/NVIDIA-patcher
